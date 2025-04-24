@@ -51,7 +51,7 @@ The analysis identified three key predictors:
 ├── helper/                    # Helper functions and utilities
 │   ├── helper_function.py
 │   └── __init__.py
-├── data/                      # Data directory
+├── data/                      # Data directory (please install from the data source)
 │   └── database.sqlite
 ├── Pipfile                    # Pipenv dependencies
 ├── requirements.txt           # Python package requirements
