@@ -15,6 +15,11 @@ The project uses the [European Soccer Matches](https://www.kaggle.com/datasets/p
 - Historical game records
 - Bookmaker odds
 
+## 📗 Notebooks:
+- [data_cleaning_and_feature_extraction](https://github.com/MeiChieh/european-soccer-matches-prediction/blob/main/1_data_cleaning_and_feature_extraction.ipynb)
+- [eda_and_feature_engineering](https://github.com/MeiChieh/european-soccer-matches-prediction/blob/main/2_eda_and_feature_selection.ipynb)
+- [modeling](https://github.com/MeiChieh/european-soccer-matches-prediction/blob/main/3_modeling.ipynb)
+
 ## ⭐ Key Findings
 
 ### 1. 🎯 Feature Selection
