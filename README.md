@@ -2,7 +2,7 @@
 
 ## 📊 Overview
 
-This project analyzes European soccer match data from 2008 to 2016 to predict game outcomes using machine learning techniques. The goal is to create a logistic regression model that predicts match results for the 2015/2016 season based on data from previous seasons. The analysis is structured in three main phases: data cleaning and feature extraction, exploratory data analysis (EDA) with feature selection, and modeling.
+This project analyzes timeseries European soccer match data from 2008 to 2016 to predict game outcomes using machine learning techniques. The goal is to create a classifier model that predicts match results for the 2015/2016 season based on data from previous seasons. Features such as historical game records, individual player information, match formation, home advantage, ...etc are explored for building the predictive model. In the end a simple tableau dashboard is also constructed to compare the predictive power of our model and the average prediction of various Bookmakers.
 
 ## 📚 Dataset
 
@@ -24,7 +24,7 @@ The project uses the [European Soccer Matches](https://www.kaggle.com/datasets/p
 
 ### 1. 🎯 Feature Selection
 
-The analysis identified three key predictors:
+The analysis identified three strong key predictors:
 
 - `player_score_mean_diff`: Difference in player performance metrics
 - `past_game_result_diff`: Historical game results difference
