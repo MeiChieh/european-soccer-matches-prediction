@@ -2,7 +2,7 @@
 
 ## 📊 Overview
 
-This project analyzes timeseries European soccer match data from 2008 to 2016 to predict game outcomes using machine learning techniques. The goal is to create a classifier model that predicts match results for the 2015/2016 season based on data from previous seasons. Features such as historical game records, individual player information, match formation, home advantage, ...etc are explored for building the predictive model. In the end a simple tableau dashboard is also constructed to compare the predictive power of our model and the average prediction of various Bookmakers.
+This project analyzes timeseries European soccer match data from 2008 to 2016 to predict game outcomes using machine learning techniques. The goal is to create a classifier model that predicts match results for the 2015/2016 season based on data from previous seasons. Features such as historical game records, individual player information, match formation, home advantage, ...etc are explored for building the predictive model. A simple tableau dashboard is also constructed to compare the predictive power of our model and the average prediction of various Bookmakers.
 
 ## 📚 Dataset
 
